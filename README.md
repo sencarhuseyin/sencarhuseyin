@@ -1,44 +1,35 @@
-# Hüseyin Özgür Sencar
+# Hi, I'm Hüseyin 👋
 
-### Backend / .NET Software Engineer
+Software Developer based in Nicosia/Famagusta, Cyprus, working with **C#, ASP.NET Core/MVC**, and **SQL Server / Oracle**. I've spent the last few years building backend systems and database logic for real business operations — not tutorials, actual production systems people use every day.
 
-Backend-focused software engineer with strong database experience, building maintainable APIs and data-driven business applications with **C#, ASP.NET Core, Entity Framework Core, SQL Server, and Oracle**.
+## What I do
 
-My background combines software development with hands-on database experience, giving me a strong understanding of both application logic and the data layer behind it.
+I build backend applications and the databases behind them. Most of my work lives at the intersection of **.NET** and **relational databases** — designing schemas, writing performance-critical SQL, and shipping the APIs and business logic on top of them.
 
-## 🛠️ Tech Stack
+- 🔧 **Backend:** ASP.NET Core, ASP.NET MVC, Web API, Entity Framework, N-Tier & Repository Pattern architecture
+- 🗄️ **Databases:** SQL Server & Oracle — schema design, indexing, execution plan tuning, stored procedures/triggers, RMAN & Data Pump backup/disaster recovery
+- 🌐 **Frontend (supporting):** JavaScript, jQuery, AJAX, Bootstrap — currently picking up Angular & TypeScript
 
-**Backend**  
-C# · .NET · ASP.NET Core · ASP.NET MVC · REST APIs · Entity Framework Core
+## Some things I've built
 
-**Databases**  
-SQL Server · Oracle · T-SQL · PL/SQL
+**Erguns Rent A Car — ERP & Operations Management System**
+Built this end-to-end, solo — from concept to deployment. It's now used in live business operations for fleet tracking, booking scheduling, multi-currency billing, and mobile-ready staff workflows for vehicle handovers and payments.
 
-**Frontend**  
-JavaScript · jQuery · Bootstrap · AJAX
+**Company Inventory Management System**
+Stock tracking and reporting modules for a live company system, with MSSQL-backed data structures and optimized queries for fast search/listing screens under real usage load.
 
-**Tools & Practices**  
-Git · GitHub · Visual Studio · PowerShell · RESTful API Design · Layered Architecture
+**Ticket-Based Workflow & Case Management System**
+A ticketing app with multi-state lifecycle tracking (Pending/Approved/Rejected), role-based access control, and admin dashboards.
 
-## 🔧 Current Focus
+**KTFD Portal** ([ktfd.org](https://ktfd.org))
+Production web platform for the Cyprus Turkish Physiotherapists Association — member registration, fee validation, and AJAX-based directory search.
 
-- Building clean and maintainable .NET backend applications
-- Designing REST APIs with clear separation of concerns
-- Improving testing, CI/CD, and GitHub workflow practices
-- Combining application development with strong database design and SQL knowledge
+## Where I've worked
 
-## 🚀 Featured Work
+Currently a **Database Specialist / Software Developer at Near East Technology**, where I split my time between backend feature development and keeping the databases behind those systems fast and reliable — including cutting peak-load query response times by ~15% through indexing and execution plan reviews. Before that, I handled billing assurance and database work at Vodafone North Cyprus.
 
-I am currently improving and publishing selected projects that demonstrate:
+## Currently
 
-- ASP.NET Core Web APIs
-- Onion / layered architecture
-- Business-oriented CRUD applications
-- Database-driven systems
-- Authentication and authorization
-- Testing and CI/CD practices
+Rounding out my full-stack skill set with Angular & TypeScript, and always looking to get better at database performance tuning — it's the part of the job I enjoy most.
 
-## 📫 Connect
-
-- GitHub: **@sencarhuseyin**
-- Open to backend / .NET software engineering opportunities
+📫 Reach me at sencar.huseyin@gmail.com or [LinkedIn](https://linkedin.com/in/huseyinozgursencar)
