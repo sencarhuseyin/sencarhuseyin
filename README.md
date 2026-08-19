@@ -1,6 +1,6 @@
 # Hi, I'm Hüseyin 👋
 
-Software Developer based in Nicosia/Famagusta, Cyprus, working with **C#, ASP.NET Core/MVC**, and **SQL Server / Oracle**. I've spent the last few years building backend systems and database logic for real business operations — not tutorials, actual production systems people use every day.
+Software Developer based in Nicosia/Famagusta, Cyprus, working with **C#, ASP.NET Core/MVC**, and **SQL Server / Oracle**.I've spent the last few years working on backend systems and database solutions used in real business operations.
 
 ## What I do
 
