@@ -1,3 +1,5 @@
+<img src="profile-banner.svg" width="100%"/>
+
 # Hi, I'm Hüseyin 👋
 
 Software Developer based in Nicosia/Famagusta, Cyprus, working with **C#, ASP.NET Core/MVC**, and **SQL Server / Oracle**.I've spent the last few years working on backend systems and database solutions used in real business operations.
